@@ -80,7 +80,7 @@ export default function Home() {
               About
             </button>
             <Link
-              href="https://rizzy.vip"
+              href="https://"
               target="_blank"
               className="bg-yellow-500 text-gray-900 px-4 py-2 rounded-md hover:bg-yellow-600 transition-colors shadow-lg"
             >
@@ -116,7 +116,7 @@ export default function Home() {
               About
             </button>
             <Link
-              href="https://rizzy.vip"
+              href="https://"
               target="_blank"
               className="bg-yellow-500 text-gray-900 px-4 py-2 rounded-md hover:bg-yellow-600 transition-colors text-center shadow-lg"
             >
@@ -137,7 +137,7 @@ export default function Home() {
         </p>
         <div className="mb-8">
           <Link
-            href="https://rizzy.vip"
+            href="https://"
             target="_blank"
             className="bg-yellow-500 text-gray-900 px-8 py-3 rounded-full hover:bg-yellow-600 transition-colors inline-flex items-center group shadow-lg"
           >
@@ -386,7 +386,7 @@ export default function Home() {
             <div>
               <h4 className="text-lg font-semibold mb-4">Connect</h4>
               <Link
-                href="https://rizzy.vip"
+                href="https://"
                 target="_blank"
                 className="inline-flex items-center space-x-2 text-yellow-500 hover:text-yellow-400 transition-colors"
               >
